@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16473" started-at="2018-01-29T09:38:02Z" finished-at="2018-01-29T09:38:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16473" started-at="2018-01-29T09:38:02Z" finished-at="2018-01-29T09:38:18Z">
+      <class name="Pkg.leaveapply">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Pkg.leaveapply@1ee9faa]" name="beforeTest" is-config="true" duration-ms="5227" started-at="2018-01-29T15:08:02Z" finished-at="2018-01-29T15:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:Pkg.leaveapply@1ee9faa]" name="LoginPage" duration-ms="731" started-at="2018-01-29T15:08:07Z" finished-at="2018-01-29T15:08:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="Leave()[pri:1, instance:Pkg.leaveapply@1ee9faa]" name="Leave" duration-ms="194" started-at="2018-01-29T15:08:08Z" finished-at="2018-01-29T15:08:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Leave -->
+        <test-method status="PASS" signature="ApplyLeave()[pri:2, instance:Pkg.leaveapply@1ee9faa]" name="ApplyLeave" duration-ms="10307" started-at="2018-01-29T15:08:08Z" finished-at="2018-01-29T15:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplyLeave -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Pkg.leaveapply@1ee9faa]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-01-29T15:08:18Z" finished-at="2018-01-29T15:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Pkg.leaveapply -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
